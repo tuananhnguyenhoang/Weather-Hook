@@ -1,0 +1,34 @@
+
+.Day{
+
+}
+.DayDetail{
+    width: 100%;
+   display: flex;
+   
+  
+}
+.dayItem{
+    width: 20%;
+    flex-wrap: nowrap;
+    background-color: lightsalmon;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: 10px;
+    cursor: pointer;
+    padding-bottom: 20px;
+}
+.timeDayMain{
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.mainTime{
+    font-size: 60px;
+}
+.mainDay{
+    font-size: 21px;
+}
+.title{
+    padding-top: 20px;
+    font-size: 60px;
+}

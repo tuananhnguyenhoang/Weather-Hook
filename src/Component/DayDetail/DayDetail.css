@@ -1,0 +1,16 @@
+.dayMain{
+    width: 100%;
+}
+
+.detailItem{
+    width: 100%;
+    display: flex;
+}
+.detailItemsmall{
+    width: 20%;
+    font-size: 24px;
+}
+.dayTitle{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
